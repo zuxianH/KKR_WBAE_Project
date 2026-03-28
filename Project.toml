@@ -1,0 +1,10 @@
+[deps]
+BifurcationKit = "0f109fa4-8a5d-4b75-95aa-f515264e7665"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+HomotopyContinuation = "f213a82b-91d6-5c5d-acf7-10f1c761b327"
+IncompleteLU = "40713840-3770-5561-ab4c-a76e7d0d7895"
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+Suppressor = "fd094767-a336-5f1f-9728-57cf17d0bbfb"
